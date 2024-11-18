@@ -1,0 +1,43 @@
+body{
+    background-color: azure;
+}
+
+h1{
+    text-align: center;
+    background-color:cadetblue;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 5rem;
+}
+h2 {
+    text-align:center
+}
+
+h3 {
+    background-color: rgb(170, 205, 214);
+}
+h4 {
+    text-align: center;
+}
+
+h5 {
+    font-size:3rem;
+    text-align: center;
+
+}
+
+h6 {
+    font-size: 1rem;
+}
+
+p {
+    text-align: center;
+    background-color: rgb(197, 211, 224);
+}
+
+img {
+    height:40%;
+    width:40%;
+    
+}
+
